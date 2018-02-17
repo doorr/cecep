@@ -23,7 +23,7 @@ else:
 
 cl = LINETCR.LINE()
 #cl.login(qr=True)
-cl.login(token="EpdtpiplIpnSXNLq2zJd.Y92sGaxtu6rdZs4hhijdZq.93O1wubReWAr5Gg3K8N4cXe4tFMAp8zUAx15TARK0+g=")
+cl.login(token="EpdtpiplIpnSXNLq2jdZq.93O1wubReWAr5Gg3K8N4cXe4tFMAp8zUAx15TARK0+g=")
 cl.loginResult()
 
 print "==================[Login Success]==================="
@@ -32,7 +32,7 @@ sys.setdefaultencoding('utf-8')
 
 helpmsg ="""╔════════════════════════════════
 =====================
- ==࿅ོ࿆༼UK_self༽࿅ོ࿆==
+ ==࿅ོ࿆༼CECEP_self༽࿅ོ࿆==
 =====================
 ╠ 
 ╠➩  Help1-5
@@ -151,8 +151,8 @@ helpmed ="""╔═════════════════
 """
 
 mid = cl.getProfile().mid
-Bots=["ucbdd928005d353a443cd2e071c8243cd"]
-admin=["ucbdd928005d353a443cd2e071c8243cd"]
+Bots=["ucbdd928005dd"]
+admin=["ucbdd928"]
 wait = {
     "likeOn":True,
     "alwayRead":False,
